@@ -8,4 +8,4 @@ export async function testDadJoke() {
   return testPasses;
 }
 
-testDadJoke();
+testDadJoke();;

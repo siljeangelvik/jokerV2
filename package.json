@@ -1,6 +1,6 @@
 {
   "name": "jokerv2-angelvik",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "a little description, joker gives jokes",
   "type": "module",
   "main": "src/index.js",

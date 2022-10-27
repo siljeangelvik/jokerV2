@@ -1,0 +1,32 @@
+{
+  "name": "jokerv2",
+  "version": "0.1.0",
+  "description": "a little description, joker gives jokes",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "prettier -w src/js/joker.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siljeangelvik/jokerV2.git"
+  },
+  "keywords": [
+    "joker",
+    "npm",
+    "workflow"
+  ],
+  "author": "Silje A-",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siljeangelvik/jokerV2/issues"
+  },
+  "homepage": "https://github.com/siljeangelvik/jokerV2#readme",
+  "devDependencies": {
+    "prettier": "^2.7.1"
+  },
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}

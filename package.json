@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/siljeangelvik/jokerV2/issues"
   },
-  "homepage": "https://github.com/siljeangelvik/jokerV2#readme"
+  "homepage": "https://github.com/siljeangelvik/jokerV2#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
